@@ -1,0 +1,12 @@
+C:\Projects\Browser_Automation\Browser_Automation\bin\Debug\Browser_Automation.exe.config
+C:\Projects\Browser_Automation\Browser_Automation\bin\Debug\Browser_Automation.exe
+C:\Projects\Browser_Automation\Browser_Automation\bin\Debug\Browser_Automation.pdb
+C:\Projects\Browser_Automation\Browser_Automation\bin\Debug\WebDriver.dll
+C:\Projects\Browser_Automation\Browser_Automation\bin\Debug\WebDriver.xml
+C:\Projects\Browser_Automation\Browser_Automation\obj\Debug\Browser_Automation.csprojResolveAssemblyReference.cache
+C:\Projects\Browser_Automation\Browser_Automation\obj\Debug\Browser_Automation.exe
+C:\Projects\Browser_Automation\Browser_Automation\obj\Debug\Browser_Automation.pdb
+C:\Projects\Browser_Automation\Browser_Automation\bin\Debug\nunit.framework.dll
+C:\Projects\Browser_Automation\Browser_Automation\bin\Debug\nunit.framework.xml
+D:\win-backup\Projects\Browser_Automation\Browser_Automation\bin\Debug\Browser_Automation.exe.config
+D:\Projects\Browser_Automation\Browser_Automation\bin\Debug\Browser_Automation.exe.config

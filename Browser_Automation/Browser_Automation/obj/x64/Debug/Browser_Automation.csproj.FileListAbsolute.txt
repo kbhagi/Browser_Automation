@@ -1,0 +1,2 @@
+D:\win-backup\Projects\Browser_Automation\Browser_Automation\bin\x64\Debug\Browser_Automation.exe.config
+D:\Projects\Browser_Automation\Browser_Automation\bin\x64\Debug\Browser_Automation.exe.config
